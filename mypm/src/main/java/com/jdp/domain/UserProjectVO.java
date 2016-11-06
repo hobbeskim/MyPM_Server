@@ -1,13 +1,13 @@
 package com.jdp.domain;
 /** 
- *  Created by 2015112137 차시황
+ *  Created by 2015112137 Cha
  */
 public class UserProjectVO {
 
 	private String uid;
 	private int pno;
 	private int pmflag;
-	private String department; // 맡은 분야 or 부서
+	private String department; // 留≪� 遺꾩빞 or 遺��꽌
 	
 	public UserProjectVO(String uid, int pno, int pmflag, String department) {
 		super();

@@ -1,6 +1,6 @@
 package com.jdp.domain;
 /** 
- *  Created by 2015112137 차시황
+ *  Created by 2015112137 Cha
  */
 public class BoardVO {
 

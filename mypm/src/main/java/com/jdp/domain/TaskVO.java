@@ -1,8 +1,8 @@
 package com.jdp.domain;
 /** 
- *  Created by 2015112137 차시황
+ *  Created by 2015112137 Cha
  */
-public class task {
+public class TaskVO {
 
 	private int tno;
 	private int pno;
@@ -12,7 +12,7 @@ public class task {
 	private int ucount;
 	private int donecount;
 	
-	public task(int tno, int pno, String tname, String tstartdate, String tenddate, int ucount, int donecount) {
+	public TaskVO(int tno, int pno, String tname, String tstartdate, String tenddate, int ucount, int donecount) {
 		super();
 		this.tno = tno;
 		this.pno = pno;
